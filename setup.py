@@ -12,5 +12,5 @@ setup(
     version='1.0.0',
     maintainer='Noah Alorwu',
     maintainer_email='noah@pythonghana.org',
-    url=web_url,
+    url="https://github.com/pythonghana/pip-python-ghana.git",
 )
