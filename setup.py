@@ -8,8 +8,8 @@ if 'install' in sys.argv or 'bdist_wheel' in sys.argv:
     webbrowser.open(web_url)
 
 setup(
-    name='python-ghana',
-    version='1.0.0',
+    name='pythonghana',
+    version='1.0.1',
     maintainer='Noah Alorwu',
     maintainer_email='noah@pythonghana.org',
     url="https://github.com/pythonghana/pip-python-ghana.git",
