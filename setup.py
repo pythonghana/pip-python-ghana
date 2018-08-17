@@ -4,7 +4,7 @@ from setuptools import setup
 
 web_url = 'http://pythonghana.org'
 
-if 'install' in sys.argv:
+if 'install' in sys.argv or 'bdist_wheel' in sys.argv:
     webbrowser.open(web_url)
 
 setup(
